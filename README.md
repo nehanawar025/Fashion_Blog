@@ -3,7 +3,6 @@ This is a project of [Codecademy HTML course](https://www.codecademy.com/learn/l
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Links](#links)
   - [Built with](#built-with)
   
